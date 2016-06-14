@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'PRAVA ESENCIA ® C7 Luxury Face Oil '
-datePublished: '2016-06-14T02:34:15.867Z'
-dateModified: '2016-06-14T02:34:01.832Z'
+datePublished: '2016-06-14T02:35:10.902Z'
+dateModified: '2016-06-14T02:34:44.271Z'
 title: ''
 author:
   - name: ''
     url: ''
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-14-prava-esencia.md
+starred: true
 url: prava-esencia/index.html
 _type: Article
 
