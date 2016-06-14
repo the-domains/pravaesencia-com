@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Prava Esencia]]></title>
         <description><![CDATA[Prava Esencia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://pravaesencia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 02:34:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 02:35:12 GMT</lastBuildDate>
+        <atom:link href="http://pravaesencia.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Prava Esencia]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e964384cca246fa066f02c488722efaacb11d7d.jpg" alt="" title="" />]]></description>
-            <link>undefinedprava-esencia/index.html</link>
+            <link>http://pravaesencia.com/prava-esencia/index.html</link>
             <guid isPermaLink="false">dd9ad480-b269-4e99-836b-79a3cce6c2ee</guid>
-            <pubDate>Tue, 14 Jun 2016 02:34:15 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2016 02:35:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
