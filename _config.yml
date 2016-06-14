@@ -1,14 +1,29 @@
+name: PRAVAESENCIA.com
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+title: Prava Esencia
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.9409071
-  brandStrength: 1
-  saturation: 0.845782
-  rhythmicContrast: 0.8466055
   brandColors:
     - '#1B161F'
     - '#D3C7C7'
     - '#9A7027'
     - '#4B372D'
     - '#FFDE6A'
-name: PRAVAESENCIA.com
+  brandStrength: 1
+  lightness: 0.9409071
+  saturation: 0.845782
+  rhythmicContrast: 0.8466055
+purpose: []
