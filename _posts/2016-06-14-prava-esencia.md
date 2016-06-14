@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'PRAVA ESENCIA ® C7 Luxury Face Oil '
-datePublished: '2016-06-14T02:35:10.902Z'
-dateModified: '2016-06-14T02:34:44.271Z'
+datePublished: '2016-06-14T02:49:29.898Z'
+dateModified: '2016-06-14T02:49:13.475Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-14-prava-esencia.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-06-14-prava-esencia.md
 starred: true
 url: prava-esencia/index.html
 _type: Article
@@ -29,9 +29,4 @@ After suddenly discovering a life-threatening allergy to salicylates found in co
 
 After her first medical mission trip to Africa in 2011, Lisa formulated and tested a simple yet effective beautiful new skincare product she later named "C7 Luxury Face Oil." This luxurious blend combines some of nature's most potent plant-derived ingredients, prized for their rarity and deep originative properties. Grounded in highly absorbent and nutrient rich oils of coconut, pomegranate, vetiver, frankincense, and myrrh, C7's ingredients have been hand-selected, PETA approved for Cruelty-free and Vegan Beauty Without Bunnies as well as Dermatologist tested and approved for a beauty that transcends time itself. Lisa insists on using only pure ingredients - many of which she discovered in her travels abroad. 
 
-PRAVA ESENCIA (r) is more than a label. Translated from Slovak, but made in the USA, the
-name means, "Right Essence" - a statement of handmade craftsmanship in limited production to
-emphasize quality over quantity. This luxury oil has been created for complexions of all types,
-becoming an ideal emulsion that wonderfully renews skin for a healthy appearance, and a
-luminous glow. PRAVA ESENCIA (r), "C7 Luxury Face Oil," renews hope and confidence with
-simplified skincare, offering its user a less complicated and more natural beauty routine.
+PRAVA ESENCIA (r) is more than a label. Translated from Slovak, but made in the USA, the name means, "Right Essence" - a statement of handmade craftsmanship in limited production to emphasize quality over quantity. This luxury oil has been created for complexions of all types, becoming an ideal emulsion that wonderfully renews skin for a healthy appearance, and a luminous glow. PRAVA ESENCIA (r), "C7 Luxury Face Oil," renews hope and confidence with simplified skincare, offering its user a less complicated and more natural beauty routine.
